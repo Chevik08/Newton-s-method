@@ -5,6 +5,8 @@
 Запуск с помощью команды: python newtonpackage\\__main__.py [y, a, b, e] [-h, -ex, -t]
 Запуск теста вручную: pytest pytest newtonpackage\\tests\\tests.py -v
 
+Ссылка на GitHub: https://github.com/Chevik08/Newton-s-method
+
 Автор: Черных Никита Сергеевич, КИ20-17/2б
 """
 
