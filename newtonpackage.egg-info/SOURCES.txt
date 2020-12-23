@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.cfg
+setup.py
+newtonpackage/__init__.py
+newtonpackage/__main__.py
+newtonpackage/examples.py
+newtonpackage/newtonmethod.py
+newtonpackage.egg-info/PKG-INFO
+newtonpackage.egg-info/SOURCES.txt
+newtonpackage.egg-info/dependency_links.txt
+newtonpackage.egg-info/top_level.txt
